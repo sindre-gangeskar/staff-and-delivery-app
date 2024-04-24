@@ -1,6 +1,5 @@
 # Staff And Delivery - Semester Project Assignment
-
-Projected created as the semester project assignment. 
+Project created for the semester project assignment
 
 # About
 This app will generate random users using randomuser API and append them dynamically to the respective tables. 
