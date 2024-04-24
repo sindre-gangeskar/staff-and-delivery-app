@@ -1,4 +1,4 @@
-# Staff And Delivery - Semester Project
+# Staff And Delivery - Semester Project Assignment
 
 Projected created as the semester project assignment. 
 
