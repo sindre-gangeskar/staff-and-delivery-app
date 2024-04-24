@@ -1,4 +1,4 @@
-# Staff And Delivery App
+# Staff And Delivery - Semester Project
 
 Projected created as the semester project assignment. 
 
