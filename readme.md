@@ -12,7 +12,7 @@ Assign the delivery a full name, phone number, vehicle type and delivery address
 
 This project uses Regex validation for generating the staff user and during the creation of a new delivery. 
 
-[Check out the project here](https://staff-and-delivery.netlify.app/)
+[Live demo](https://staff-and-delivery.netlify.app/)
 
 |Third-Party Library CDNs used|
 |-----|
